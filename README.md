@@ -6,7 +6,7 @@
 
 - My Name is Markus
 - I'm from 🇩🇰 Denmark
-- I'm a studying 💻computer science at Københans Erhvervsakademi
+- I'm a studying 💻computer science at Københavns Erhvervsakademi [KEA](https://kea.dk/)
 - Worked mostly with FullStack Web development
 
 ###
