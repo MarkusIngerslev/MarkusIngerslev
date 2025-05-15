@@ -4,10 +4,15 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-- My Name is Markus
+- My name is Markus
+- I'm 24
 - I'm from 🇩🇰 Denmark
-- I'm a studying 💻computer science at Københavns Erhvervsakademi [KEA](https://kea.dk/)
+- I'm a student studying computer science 💻 at Københavns Erhvervsakademi [KEA](https://kea.dk/)
 - Worked mostly with FullStack Web development
+
+<h3 align="left">Hobby projects</h3>
+
+- Right now I'm learning how to use Next.JS and NestJS both togetter.
 
 ###
 
