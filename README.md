@@ -14,16 +14,6 @@
 
 - Right now I'm learning how to use Next.JS and NestJS both togetter.
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/markus-ingerslev-olsen-71a438266/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
