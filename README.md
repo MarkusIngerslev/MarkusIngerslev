@@ -7,12 +7,12 @@
 - My name is Markus
 - I'm 24
 - I'm from 🇩🇰 Denmark
-- I'm a student studying computer science 💻 at Københavns Erhvervsakademi [KEA](https://kea.dk/)
+- I have a Computer Science Degree 💻 at Erhvervsakademi København [EK](https://www.ek.dk/)
 - Worked mostly with FullStack Web development
 
 <h3 align="left">Hobby projects</h3>
 
-- Right now I'm learning how to use Next.JS and NestJS both togetter.
+- Anything that finds my interrest
 
 <h3 align="left">🛠 Language and tools</h3>
 
