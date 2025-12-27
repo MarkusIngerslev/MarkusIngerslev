@@ -12,7 +12,7 @@
 
 <h3 align="left">Hobby projects</h3>
 
-- Anything that finds my interrest
+- Anything that finds my interests
 
 <h3 align="left">🛠 Language and tools</h3>
 
